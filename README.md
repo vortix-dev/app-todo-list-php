@@ -17,4 +17,4 @@ Cette application est une **To-Do List** simple développée avec **PHP** et **B
 ## 🎯 Installation
 ### 1️⃣ **Cloner le projet**  
 ```sh
-git clone https://github.com/vortix-dev/todo-list-php.git
+git clone https://github.com/vortix-dev/app-todo-list-php.git
